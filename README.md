@@ -334,7 +334,7 @@ Dashboard includes:
 
 
 # Project Structure
-
+```text
 
 Netflix-Movies-TV-Shows-Analysis
 
@@ -352,7 +352,7 @@ Netflix-Movies-TV-Shows-Analysis
 ├── screenshots
 │
 └── Documentation.docx
-
+```
 
 ---
 
